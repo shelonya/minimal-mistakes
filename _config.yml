@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
- theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -20,7 +20,7 @@ title                    : "Selby Onyango's Portfolio"
 title_separator          : "|"
 name                     : "Selby Onyango"
 description              : "Software Engineering Portfolio"
-url                      : "https://github.io.shelonya" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shelonya.github.io." # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "shelonya/shelonya" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

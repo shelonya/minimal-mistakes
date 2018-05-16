@@ -7,7 +7,7 @@ en: &DEFAULT_EN
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
-  breadcrumb_separator       : "/"
+  breadcrumb_separator       : "|"
   menu_label                 : "Toggle Menu"
   toc_label                  : "On This Page"
   ext_link_label             : "Direct Link"
@@ -16,7 +16,7 @@ en: &DEFAULT_EN
   share_on_label             : "Share on"
   meta_label                 :
   tags_label                 : "Tags:"
-categories_label             : "Categories:"
+  categories_label           : "Categories:"
   date_label                 : "Updated:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
