@@ -1,7 +1,7 @@
 ---
 title: "Current Learning Goals"
 permalink: /_pages/learning-goals
-last_modified_at: 2018-05-16T05:54:35-04:00
+last_modified_at: 2018-05-16T06:38:35-04:00
 ---
 
 # Short Term Goals
