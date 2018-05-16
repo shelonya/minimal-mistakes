@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "View Links"
-    url: https://shelonya.github.io/shelonya/docs/view-links/
   - title: "Portfolio"
-    url: https://shelonya.github.io/shelonya/portfolio
-  - title: "Posts"
-    url: /year-archive/
+    url: https://github.com/shelonya
   - title: "About"
     url: https://shelonya.github.io/shelonya/about/
+  - title: "Current Learning Goals"
+    url: https://shelonya.github.io/shelonya/learning-goals/
   - title: "Focus"
     url: http://www.rainymood.com/
