@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 excerpt: “Selby Onyango’s personal portfolio and blog.”
-toc: true
 ---
 
 ## Hello World!
