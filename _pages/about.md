@@ -1,7 +1,7 @@
 ---
 title: "About"
-layout: 
 permalink: /_pages/about
+last_modified_at: 2018-05-16T05:54:35-04:00
 ---
 
 ## Hello World!
