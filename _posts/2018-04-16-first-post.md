@@ -1,5 +1,6 @@
 ---
 title: "FIRST POST"
+published: true 
 categories:
     - Beginner
 tags:
