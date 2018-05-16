@@ -1,7 +1,7 @@
 ---
-permalink: /about/
 title: "About"
-excerpt: “Selby Onyango’s personal portfolio and blog.”
+layout: 
+permalink: /_pages/about
 ---
 
 ## Hello World!
